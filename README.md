@@ -18,7 +18,7 @@ I keep on looking to build and develop projects based on <b>Artificial Intelli
 
 ## Connect with Me:
 <p align="left">
-<a href="[https://github.com/chhavi007]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="chhavi ." height="30" width="40" /></a>
-<a href="https://linkedin.com/in/-chhavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chhavi ." height="30" width="40" /></a>
+<a href="https://github.com/chhavi007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="chhavi007" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/-chhavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-chhavi" height="30" width="40" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhavi007&label=Profile%20views&color=0e75b6&style=flat" alt="chhavi007" /> </p>
