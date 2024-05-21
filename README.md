@@ -1,5 +1,5 @@
-# &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Hi 👋 there, I'm Chhavi
-### &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&ensp; Learner-Developer-Writer
+# &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Hi 👋 there, I'm Chhavi
+### &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; Learner-Developer-Writer
 ## About Me: 
 I am a <b>tech enthusiast</b> keenly interested in working on different projects to enhance my skills and stay up-to-date with the latest trends.
 I keep on looking to build and develop projects based on <b>Artificial Intelligence</b> and <b>Web Development</b> and love to <b>explore new technologies</b> as well. My hobby is to cherish people's hearts through my <b>writing</b> skills.<br>I am a firm believer in <b>"Learn and Improve as you work"!</b>
