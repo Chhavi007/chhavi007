@@ -1,6 +1,6 @@
 # &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Hi 👋 there, I'm Chhavi
 ### &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; Learner-Developer-Writer
-![LinkedIn Profile Banner2](https://github.com/Chhavi007/chhavi007/assets/123095799/6029a595-81da-48d9-b70e-b971911dc321)
+![White Minimalist Profile LinkedIn Banner](https://github.com/Chhavi007/chhavi007/assets/123095799/219c098d-be24-4934-9bff-908f882c29ce)
 
 ## About Me: 
 I am a <b>tech enthusiast</b> keenly interested in working on different projects to enhance my skills and stay up-to-date with the latest trends.
