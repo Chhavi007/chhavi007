@@ -6,7 +6,7 @@
 I am a <b>tech enthusiast</b> keenly interested in working on different projects to enhance my skills and stay up-to-date with the latest trends.
 I keep on looking to build and develop projects based on <b>Artificial Intelligence</b> and <b>Web Development</b> and love to <b>explore new technologies</b> as well. My hobby is to cherish people's hearts through my <b>writing</b> skills.<br>I am a firm believer in <b>"Learn and Improve as you work"!</b>
 ## My Work: 
-<a href="https://github.com/Chhavi007/SocialFast" target="_blank"><img src="![socialfastGIF gif](https://github.com/Chhavi007/chhavi007/assets/123095799/560ffe44-741b-4d3e-b359-beb4c07475f6)" alt="SocialFast" width="240" height="180" border="10" /></a>
+<a href="https://github.com/Chhavi007/SocialFast" target="_blank"><img src="https://github.com/Chhavi007/chhavi007/blob/main/SocialFast_Gif.gif" alt="SocialFast" width="240" height="200" border="10" /></a>
 
 ## Skills: 
 - <b>Programming Languages:</b>
