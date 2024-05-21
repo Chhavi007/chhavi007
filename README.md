@@ -1,12 +1,13 @@
-# &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Hi 👋 there, I'm Chhavi
-### &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; Learner-Developer-Writer
+# Hi 👋 there, I'm Chhavi
+### Learner-Developer-Writer
 ![LinkedIn Profile Banner2](https://github.com/Chhavi007/chhavi007/assets/123095799/23e84e74-3cb5-400f-abf9-37bb82f297f1)
 
 ## About Me: 
 I am a <b>tech enthusiast</b> keenly interested in working on different projects to enhance my skills and stay up-to-date with the latest trends.
 I keep on looking to build and develop projects based on <b>Artificial Intelligence</b> and <b>Web Development</b> and love to <b>explore new technologies</b> as well. My hobby is to cherish people's hearts through my <b>writing</b> skills.<br>I am a firm believer in <b>"Learn and Improve as you work"!</b>
 ## My Work: 
-<a href="https://github.com/Chhavi007/SocialFast" target="_blank"><img src="https://github.com/Chhavi007/chhavi007/blob/main/SocialFast_Gif.gif" alt="SocialFast" width="240" height="200" border="10" /></a>
+<a href="https://github.com/Chhavi007/SocialFast" target="_blank"><img src="https://github.com/Chhavi007/chhavi007/blob/main/SocialFast_Gif.gif" alt="SocialFast" width="240" height="200" border="30" /></a>
+<a href="https://github.com/Chhavi007/LiveWords" target="_blank"><img src="https://github.com/Chhavi007/chhavi007/blob/main/LiveWords_gif.gif" alt="LiveWords" width="240" height="200" border="30" /></a>
 
 ## Skills: 
 - <b>Programming Languages:</b>
