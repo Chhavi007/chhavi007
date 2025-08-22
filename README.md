@@ -11,6 +11,9 @@ I keep on looking to build and develop projects based on <b>Artificial Intelli
 <a href="https://github.com/Chhavi007/SocialFast" target="_blank"><img src="https://github.com/Chhavi007/chhavi007/blob/main/SocialFast_Gif.gif" alt="SocialFast" width="240" height="200" border="30" /></a><br>
 
 <a>[Feel free to click and view the full work]</a>
+
+<a>--> Other deployed projects (for learning purpose only)<br>
+1. <a href="https://amazon-clone-for-learning.netlify.app/">Amazon Clone</a>
 ## Skills: 
 - <b>Programming Languages:</b>
   - 🐍 Python
