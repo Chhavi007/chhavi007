@@ -12,8 +12,6 @@ I keep on looking to build and develop projects based on <b>Artificial Intelli
 
 <a>[Feel free to click and view the full work]</a>
 
-<a>--> Other deployed projects (for learning purpose only)<br>
-1. <a href="https://amazon-clone-for-learning.netlify.app/">Amazon Clone</a>
 ## Skills: 
 - <b>Programming Languages:</b>
   - 🐍 Python
